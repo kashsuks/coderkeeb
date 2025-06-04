@@ -9,7 +9,7 @@ created_at: "2025-06-03"
 Today I sketched the keyboard layout for my keyboard using [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/#/). Here is the sketch of the rows and columns
 I came up with using the Keycool 84 preset. I also decided to make an ortho layout just because... why not?
 
-![Keyboard Layout]([https://hc-cdn.hel1.your-objectstorage.com/s/v3/dec5bd08f5af52c9154cb5bdf7c52178bb499688_image.png](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9788dcd6090f269a9f224ca2d79453a6e915c539_image.png)
+![Keyboard](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9788dcd6090f269a9f224ca2d79453a6e915c539_image.png)
 
 Through some research I found that I need specific low-profile switches and keycaps, and through some **more** research I found the specific footprints I needed. I decided on the Kailh Choc Siwtches since they're low profile and seem to be pretty cheap.
 
