@@ -20,3 +20,11 @@ Through another hack-clubber, I was told that I could add a neopixel, and I migh
 Tomorrow, I plan on creating the row column plan for the ortho layout, I did some rough planning and came to a conclusing that I will need 21 GPIO pins for the keeb and be left with 5 pins, of which 3 are going to be used for the EC11 rotary encoder, 1 for a battery led, and 1 for the neopixel
 
 **Time Spent this session: 2 hours**
+
+## June 4, 2025
+
+Today I mostly worked on my schematic for the keyboard. I followed Joe Scottos video on how to make mechanical keyboard pcb's with KiCad. Here's whatI have so far
+
+Schematic:
+
+![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cef2b444d9ea50f6e015f6afa8b3e00eefd8b7ff_image.png)
