@@ -20,3 +20,31 @@ Through another hack-clubber, I was told that I could add a neopixel, and I migh
 Tomorrow, I plan on creating the row column plan for the ortho layout, I did some rough planning and came to a conclusing that I will need 21 GPIO pins for the keeb and be left with 5 pins, of which 3 are going to be used for the EC11 rotary encoder, 1 for a battery led, and 1 for the neopixel
 
 **Time Spent this session: 2 hours**
+
+## June 4, 2025
+
+Today I mostly worked on my schematic for the keyboard. I followed Joe Scottos video on how to make mechanical keyboard pcb's with KiCad. Here's what I have so far
+
+Schematic:
+
+![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cef2b444d9ea50f6e015f6afa8b3e00eefd8b7ff_image.png)
+
+## June 6, 2025
+
+I've had QUITE a bit of progress since the last time:
+- Finalized my schematic
+- Redid my pcb like 15 times because I got a LOT of feedback from others (ground fills, spacing, etc)
+- Fixed a lot of DRC issues (mostly about silkscreens)
+- Checked an estimate on JLCPCB (currently at $44 USD)
+
+Heres what my PCB looks like as of now:
+
+Without 3d models:
+![Without 3d models](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3715ae6915dbedc88eaedee70c916fae7bbaf0a_image.png)
+
+With 3d models:
+![With 3d models](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e13c92bdfcdcc752143a7aa92d4699bc3714e3bd_image.png)
+
+I'm going to fix a couple of the issues caused by the ground fill!!! (and also add some art :D)
+
+**Time spent this sessions: 6 hours**
